@@ -2,23 +2,40 @@
 ## Simple Base Function Bot that runs on cogs.
 
 ### File Structure
-> src/
+> src/.
+
 > |-- bot.py
-> |-- databse.db
-> |-- cogs/
-> |----__init__.py
-> |----kick.py
-> |----ban.py
-> |----setup.py [ Commands that show how to setup and use databases with commands in discord ]
-> |----me.py [ Example of owner only commands ]
-> |----automod.py [ Example of a autmod ]
-> |----mute.py
-> |----report.py [ Example of a basic report command, that kinda broke since the new discord api update ]
-> |----say.py [ Super basic example of how a cog is setup ]
-> |----warn.py [ Basic warning system ]
-> |---- manager/
-> |------__init__.py
-> |------databaseManager.py [ Custom library i wrote that handles the sql queries for the bot ]
+
+> |-- databse.db.
+
+> |-- cogs/.
+
+> |----__init__.py.
+
+> |----kick.py.
+
+> |----ban.py.
+
+> |----setup.py [ Commands that show how to setup and use databases with commands in discord ].
+
+> |----me.py [ Example of owner only commands ].
+
+> |----automod.py [ Example of a autmod ].
+
+> |----mute.py.
+
+> |----report.py [ Example of a basic report command, that kinda broke since the new discord api update ].
+
+> |----say.py [ Super basic example of how a cog is setup ].
+
+> |----warn.py [ Basic warning system ].
+
+> |---- manager/.
+
+> |------__init__.py.
+
+> |------databaseManager.py [ Custom library i wrote that handles the sql queries for the bot ].
+
 
 ### Functions
 
