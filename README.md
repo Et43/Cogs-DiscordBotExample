@@ -1,3 +1,5 @@
+OUTDATED BUT COGS SYSTEM IS STILL VALID
+
 # Cogs-DiscordBotExample
 ## Simple Base Function Bot that runs on cogs.
 
